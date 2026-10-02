@@ -9,3 +9,6 @@ yarn-error.log*
 pnpm-debug.log*
 .idea
 .vscode
+
+# 本地测试产物
+.testbuild
